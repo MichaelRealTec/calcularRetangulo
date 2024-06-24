@@ -22,7 +22,7 @@ AREA = 134.9300
 PERIMETRO = 46.8000
 DIAGONAL = 16.6643
 		 */
-		// Variáveis
+		// Variáveis 
 		Double base;
 		Double altura;
 		Double area;
@@ -44,6 +44,7 @@ DIAGONAL = 16.6643
 		System.out.printf("DIAGONAL = %.4f\n", diagonal);
 		
 		leia.close();
+		// Agoritmo para calcular os valores de um retangulo
 	}
 
 }
