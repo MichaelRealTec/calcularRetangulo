@@ -44,7 +44,7 @@ DIAGONAL = 16.6643
 		System.out.printf("DIAGONAL = %.4f\n", diagonal);
 		
 		leia.close();
-		// Agoritmo para calcular os valores de um retangulo
+		// Fim <-> Agoritmo para calcular os valores de um retangulo
 	}
 
 }
